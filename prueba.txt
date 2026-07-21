@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Esto es una prueba
+Nueva línea de codigo
+Nueva línea de codigo 2
+>>>>>>> ab3fd6bd8c84ac8fe9c38f3132f017e2e3b4acc6
